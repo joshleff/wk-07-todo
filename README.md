@@ -7,5 +7,5 @@ a **Google Firestore** database, and **Google Firebase authentication**.
 
 
 
-*For CS55.13 Server-Side Web Development @ Santa Rosa Junior College**
+*For CS55.13 Server-Side Web Development @ Santa Rosa Junior College*
 
